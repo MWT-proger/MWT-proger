@@ -16,7 +16,4 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MWT-proger&locale=ru)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MWT-proger&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MWT-proger&locale=ru&show_icons=true&theme=transparent)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MWT-proger&locale=ru&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
