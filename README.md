@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/IrQdEDGIF5cAAAAi/hello.gif" width="100"/>
+  <img src="https://media.tenor.com/IrQdEDGIF5cAAAAi/hello.gif" width="200"/>
 </div>
 <div id="badges">
   <a href="https://t.me/MWTechnolog">
