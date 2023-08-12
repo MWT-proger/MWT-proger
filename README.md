@@ -13,4 +13,4 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MWT-proger&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MWT-proger&hide_border=&locale=ru)](https://git.io/streak-stats)
