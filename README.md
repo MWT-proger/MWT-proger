@@ -41,8 +41,8 @@
 | Тип   | Скиллы |
 |-------|------|
 | Языки | <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" height="50"> Go <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"> Python |
-| Фреймворки | <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50"> Django <img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50"> Flask |
-| СУБД  | <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50"> PostgreSQL <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"> MongoDB |
+| Фреймворки | <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50"> Django <img src="docs/fastapi-original.svg" height="50"> FastAPI <img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50"> Flask  |
+| СУБД  | <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50"> PostgreSQL <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"> MongoDB <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50"> Redis |
 | Брокеры сообщений | <img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" height="50"> RabbitMQ <img src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" height="50"> Kafka |
 | Остальное | <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"> Docker <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="50"> Nginx <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"> Git <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"> Linux <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50"> Bash |
 
@@ -50,7 +50,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MWT-proger&theme=shadow-blue&border_radius=4.7&locale=ru" alt="GitHub Streak" /></a>
 </div>
 
